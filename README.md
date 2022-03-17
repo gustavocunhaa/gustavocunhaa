@@ -1,4 +1,4 @@
-# Oi, eu sou o Gustavo, Farmacêutico atuante em Data Science voltada projetos de saúde 👨‍🔬
+# Oi, eu sou o Gustavo, Farmacêutico atuante em Data Science 👨‍🔬
 
 Algumas linguagens/softwares que uso com frequeência nos meus projetos (:
 <div style="display: inline_block"><br>
