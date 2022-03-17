@@ -1,5 +1,7 @@
 # Oi, eu sou o Gustavo, Farmacêutico atuante em Data Science 👨‍🔬
 
+Foco atual de estudo: Machine Learning (mais precisamente algorítimos de regressões).
+
 Algumas linguagens/softwares que uso com frequeência nos meus projetos (:
 <div style="display: inline_block"><br>
   <img align="center" alt="icon-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
