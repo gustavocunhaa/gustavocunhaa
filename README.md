@@ -1,6 +1,6 @@
 # Oi, eu sou o Gustavo, Farmacêutico atuante em Data Science 👨‍🔬
 
-Foco atual de estudo: Machine Learning (mais precisamente algorítimos de regressões).
+Foco atual de estudo: Machine Learning, com maior foco em clutering e classificação.
 
 Algumas linguagens/softwares que uso com frequeência nos meus projetos (:
 <div style="display: inline_block"><br>
