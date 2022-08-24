@@ -2,7 +2,7 @@
 
 Foco atual de estudo: Machine Learning (clustering e classificação) e tecnologias Serverless.
 
-Algumas linguagens/serviços que uso com frequeência nos meus projetos (:
+Algumas linguagens/bibliotecas/serviços que uso com frequeência nos meus projetos (:
 <div style="display: inline_block"><br>
   <img align="center" alt="icon-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="icon-pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
