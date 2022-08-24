@@ -1,6 +1,6 @@
 # Oi, eu sou o Gustavo, Farmacêutico e Cientista de Dados 👨‍🔬
 
-Foco atual de estudo: Machine Learning (clustering e classificação) e tecnologias Serverless.
+Foco atual de estudo: Machine Learning (clustering e classificação) e construção de endpoints com tecnologias Serverless.
 
 Algumas linguagens/bibliotecas/serviços que uso com frequeência nos meus projetos (:
 <div style="display: inline_block"><br>
