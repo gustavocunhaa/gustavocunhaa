@@ -1,5 +1,5 @@
 # Oi, eu sou o Gustavo, Farmacêutico e Cientista de Dados 👨‍🔬
-Aqui você vai encontrar diversos projetos com foco em aplicações de machine learning (clusterizações, regressões, decisões), desde scripts de extração dos dados até alguns endpoints para consulta desses modelos!
+Aqui você vai encontrar diversos projetos com foco em aplicações de machine learning (clusterizações, regressões, decisões), desde scripts de extração dos dados até alguns endpoints para consulta desses modelos. O objetivo é construir produtos de dados para melhorar a vida das pessoas.
 
 **Foco atual de estudo** - Redes neurais e endpoints com tecnologias Serverless.
 
