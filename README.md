@@ -5,13 +5,8 @@ O principal foco está na construção de apps E2E (ponta a ponta), que vão des
 
 **Projetos atuais**:
 
- ☑️ Datalake House com AWS e Airflow como orquestrador
- 
  ☑️ IaC e CI/CD para MLOps
- 
- ☑️ Embedding Models
- 
- ☑️ AutoML e sistemas de recomendação
+ ☑️ AutoML com ML Flow
 
 ##
 
