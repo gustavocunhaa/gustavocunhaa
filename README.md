@@ -6,6 +6,7 @@ O principal foco está na construção de apps E2E (ponta a ponta), que vão des
 **Projetos atuais**:
 
  ☑️ IaC e CI/CD para MLOps
+ 
  ☑️ AutoML com ML Flow
 
 ##
