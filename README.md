@@ -1,16 +1,7 @@
-# Oi, eu sou o Gustavo 👨‍🔬
+# Oi, eu sou o Gustavo
 Aqui você vai encontrar projetos de produtos de dados com objetivo de melhorar a vida das pessoas.
 
 O principal foco está na construção de apps E2E (ponta a ponta), que vão desde a extração dos dados até construção de endpoints para consumo de modelos de machine learning/IA.
-
-**Projetos atuais**:
-
- ☑️ Previsão para séries temporais
- 
- ☑️ IaC e CI/CD para MLOps
-  
- ☑️ AutoML com ML Flow
-
 ##
 
 <div> 
